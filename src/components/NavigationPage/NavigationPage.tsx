@@ -13,6 +13,9 @@ const NavigationPage = () =>{
             <div>
                 I added this now from office Lapy
             </div>
+            <div>
+                Again changed
+            </div>
         </>
     );
 };
