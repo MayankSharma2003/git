@@ -11,7 +11,7 @@ const NavigationPage = () =>{
                 HomePage
             </div>
             <div>
-                <image />
+                I added this now from office Lapy
             </div>
         </>
     );
